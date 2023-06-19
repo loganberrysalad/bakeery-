@@ -122,3 +122,31 @@ footer{
     text-align: center;
     font-size: xx-large ;
 }
+
+/* about me pages  */
+.aboutCard{
+    font-size: 23px;
+    width: 65rem;
+}
+#aboutImg{
+    float: left;
+    width: 18rem;
+    margin:0px 5px 0px 10px;
+
+}
+/* card 2 */
+.aboutCard2{
+    width: 83rem;
+    margin-left:20px;
+    font-size: 20px;
+    margin-top:90px;
+
+}
+#aboutImg2{
+    float: right;
+    width: 18rem;
+    margin:0px 5px 0px 10px;
+
+}
+.cardtext2{
+}
